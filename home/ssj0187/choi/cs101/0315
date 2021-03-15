@@ -1,0 +1,21 @@
+Script started on 2021-03-15 17:29:12+09:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="97" LINES="24"]
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+]0;ssj0187@DESKTOP-BV4KBE0: ~[01;32mssj0187@DESKTOP-BV4KBE0[00m:[01;34m~[00m$ d[Kcat 0315
+]0;ssj0187@DESKTOP-BV4KBE0: ~[01;32mssj0187@DESKTOP-BV4KBE0[00m:[01;34m~[00m$ d[Kls
+0315
+]0;ssj0187@DESKTOP-BV4KBE0: ~[01;32mssj0187@DESKTOP-BV4KBE0[00m:[01;34m~[00m$ d[Kdate
+Mon Mar 15 17:29:34 KST 2021
+]0;ssj0187@DESKTOP-BV4KBE0: ~[01;32mssj0187@DESKTOP-BV4KBE0[00m:[01;34m~[00m$ pwd
+/home/ssj0187
+]0;ssj0187@DESKTOP-BV4KBE0: ~[01;32mssj0187@DESKTOP-BV4KBE0[00m:[01;34m~[00m$ ls
+0315
+]0;ssj0187@DESKTOP-BV4KBE0: ~[01;32mssj0187@DESKTOP-BV4KBE0[00m:[01;34m~[00m$ hsta[K[K[Kostnmae[K[K[Kame
+DESKTOP-BV4KBE0
+]0;ssj0187@DESKTOP-BV4KBE0: ~[01;32mssj0187@DESKTOP-BV4KBE0[00m:[01;34m~[00m$ uname
+Linux
+]0;ssj0187@DESKTOP-BV4KBE0: ~[01;32mssj0187@DESKTOP-BV4KBE0[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2021-03-15 17:29:43+09:00 [COMMAND_EXIT_CODE="0"]
